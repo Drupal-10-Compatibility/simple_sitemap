@@ -1,0 +1,13 @@
+diff --git a/tests/src/Functional/SimplesitemapTestBase.php b/tests/src/Functional/SimplesitemapTestBase.php
+index 091d3ae..6b722c3 100644
+--- a/tests/src/Functional/SimplesitemapTestBase.php
++++ b/tests/src/Functional/SimplesitemapTestBase.php
+@@ -71,7 +71,7 @@ abstract class SimplesitemapTestBase extends BrowserTestBase {
+    *
+    * @var string
+    */
+-  protected $defaultTheme = 'classy';
++  protected $defaultTheme = 'stable9';
+ 
+   /**
+    * {@inheritdoc}

@@ -113,6 +113,9 @@
             "drupal/core": "-p2"
         },
         "patches": {
+            "drupal/simple_sitemap": {
+                "Removing classy theme from tests": "patches/removing-classy-theme-from-tests.patch"
+            }
         }
     },
     "scripts": {
